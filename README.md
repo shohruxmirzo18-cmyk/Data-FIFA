@@ -1,4 +1,4 @@
-[16/10/26 18:17] Muhammadali: FIFA World Cup 2026 Player Performance Analysis Ushbu loyiha Kaggle platformasidagi "FIFA World Cup 2026 Player Performance Dataset" simulyatsiya qilingan ma'lumotlar to'plami asosida tayyorlangan. Loyihada Excel (Pivot Table, Dashboard, Formulalar) hamda Python (Pandas, Matplotlib/Seaborn) imkoniyatlaridan foydalanib, o'yinchilar va jamoalarning statistik samaradorligi tahlil qilingan hamda ikkala vosita natijalari o'zaro solishtirilgan.
+[16/10/26 18:17] FIFA World Cup 2026 Player Performance Analysis Ushbu loyiha Kaggle platformasidagi "FIFA World Cup 2026 Player Performance Dataset" simulyatsiya qilingan ma'lumotlar to'plami asosida tayyorlangan. Loyihada Excel (Pivot Table, Dashboard, Formulalar) hamda Python (Pandas, Matplotlib/Seaborn) imkoniyatlaridan foydalanib, o'yinchilar va jamoalarning statistik samaradorligi tahlil qilingan hamda ikkala vosita natijalari o'zaro solishtirilgan.
 
 📌 Dataset Tavsifi Qatorlar soni: 54 600 ta
 
